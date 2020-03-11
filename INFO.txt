@@ -1,0 +1,4 @@
+This is an sample test to upload a new project to GitHub
+And also tryin' to learn how to use Vim
+
+		;D
